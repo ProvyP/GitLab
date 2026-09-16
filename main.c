@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("Hello, world!\n");
+    printf("Why there's no 'return 0 ;' written in the end?\n");
 }
